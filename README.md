@@ -9,4 +9,4 @@ Script for rule 20:20:20:20.
 To start
 
   1. Download
-  2. 'python eye_rest.py'
+  2. `python eye_rest.py`
